@@ -1,0 +1,11 @@
+:root{
+    --bg:#f4fbf8;
+    --green:#1e8a56;
+    --green-dark:#166b43;
+    --gold:#d4af37;
+    --card:#ffffff;
+    --muted:#6b6b6b;
+    --radius:14px;
+    --maxwidth:1100px;
+  }
+  *{box-sizing:border-box}
